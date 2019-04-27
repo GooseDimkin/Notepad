@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/copy-document.png</file>
+        <file>Images/save.png</file>
+        <file>Images/scissors.png</file>
+        <file>Images/new-file.png</file>
+        <file>Images/exit.png</file>
+        <file>Images/open-folder-outline.png</file>
+        <file>Images/paste-from-clipboard.png</file>
+        <file>Images/print.png</file>
+        <file>Images/redo.png</file>
+        <file>Images/undo.png</file>
+        <file>Images/notepad.png</file>
+    </qresource>
+</RCC>
